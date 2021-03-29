@@ -5,7 +5,7 @@
 Spring(Boot & Date), база данных PostgreSQL
 
 Функционал:
-Приложение позволяет проводить CRUD операции для запросов в формате JSON.
+Реализована возможность проводить CRUD операции для запросов в формате JSON.
 
 
 Для подключения к базе данных, в файле application.property поменяйте следующие значения: "passwordManager" - название базы данных можете установить своё или оставить это spring.datasource.url=jdbc:postgresql://localhost:5432/passwordManager
